@@ -2,9 +2,10 @@
   "name": "weather2.0",
   "version": "1.0.0",
   "description": "a weather app",
-  "source": "index.html",
+  "source": "weather.2.html",
   "main": "weather.2.js",
   "scripts": {
+    "test": "this is a weather app",
     "start": "parcel --open",
     "build": "parcel build"
   },
